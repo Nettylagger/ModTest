@@ -1,0 +1,714 @@
+{
+  "version": 1,
+  "publishUrl": "https://bauloo-styles-cloud.bauloo-styles-cloud-worker.workers.dev",
+  "styles": [
+    {
+      "id": "gap_aquaplus",
+      "category": "gap",
+      "name": "AquaPlus",
+      "sha256": "5a269ee44b8ad4abc6756ea774ae2836dc4a9af08f86a5ce212bd504bb4b8d00",
+      "size": 668,
+      "added": "2026-10-02",
+      "preview": "previews/gap_aquaplus.png"
+    },
+    {
+      "id": "gap_assets",
+      "category": "gap",
+      "name": "Assets",
+      "sha256": "80ae18ef8752f3c5a4e9936a9fc4c5ba36d02349278f1f207dc08ca3ad76e2bf",
+      "size": 812,
+      "added": "2026-10-02",
+      "preview": "previews/gap_assets.png"
+    },
+    {
+      "id": "gap_bauloo_privat",
+      "category": "gap",
+      "name": "Bauloo Privat",
+      "sha256": "db9abbe9439d993ba4e228acd0acaefe4a1f67d0c6d5c382fcc7b475e268549e",
+      "size": 664,
+      "added": "2026-10-02",
+      "preview": "previews/gap_bauloo_privat.png"
+    },
+    {
+      "id": "gap_crey_private",
+      "category": "gap",
+      "name": "Crey Private",
+      "sha256": "5eb0395c25df8867a21c27aa8dabb01be66ff1e428d21c4dcb0455f0859bfc0d",
+      "size": 839,
+      "added": "2026-10-02",
+      "preview": "previews/gap_crey_private.png"
+    },
+    {
+      "id": "gap_emily_edit",
+      "category": "gap",
+      "name": "Emily Edit",
+      "sha256": "2de2fe09bf2f36691f2f3f6075330c3fc95c526cf87b262bf4c3b59d41fd99f7",
+      "size": 615,
+      "added": "2026-10-02",
+      "preview": "previews/gap_emily_edit.png"
+    },
+    {
+      "id": "gap_faithful_32x",
+      "category": "gap",
+      "name": "Faithful 32x",
+      "sha256": "d7248496b48c10066c8a5e8caf9882a365cd86a854196c275b4fb223700f9d8d",
+      "size": 1101,
+      "added": "2026-10-02",
+      "preview": "previews/gap_faithful_32x.png"
+    },
+    {
+      "id": "gap_killas_lightmode",
+      "category": "gap",
+      "name": "Killas Lightmode",
+      "sha256": "9a4da6bb184b255303997ed6f5d829fb0538233a0d69e6ef9e706490c1db11f8",
+      "size": 3212,
+      "added": "2026-10-02",
+      "preview": "previews/gap_killas_lightmode.png"
+    },
+    {
+      "id": "gap_lavander",
+      "category": "gap",
+      "name": "Lavander",
+      "sha256": "315cc5561bb3b84e1e37ca0577586af06a7ef606e9a6c999531fb17ca988be1b",
+      "size": 795,
+      "added": "2026-10-02",
+      "preview": "previews/gap_lavander.png"
+    },
+    {
+      "id": "gap_purp_edit",
+      "category": "gap",
+      "name": "Purp Edit",
+      "sha256": "ca8e15e1815caef93da72a82a6770c1c0bd1abebf304fbda156423274bcc2552",
+      "size": 826,
+      "added": "2026-10-02",
+      "preview": "previews/gap_purp_edit.png"
+    },
+    {
+      "id": "gap_taurt",
+      "category": "gap",
+      "name": "Taurt",
+      "sha256": "a18df75a580cbb8d2fd8feaab3c6c279d0dd60e9da19356596b9c360f3ece621",
+      "size": 697,
+      "added": "2026-10-02",
+      "preview": "previews/gap_taurt.png"
+    },
+    {
+      "id": "pearl_blossom",
+      "category": "pearl",
+      "name": "Blossom",
+      "sha256": "568296f34d374f714591b95404669fa322e27b6a88618f3f27b8dcb9c676dfb5",
+      "size": 1467,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_blossom.png"
+    },
+    {
+      "id": "pearl_dlvaunta_mashup",
+      "category": "pearl",
+      "name": "Dlvaunta Mashup",
+      "sha256": "acc1dc335b85a1bf775692c167c2896f3eb6f3983ec80de711ae89fcddc40fa8",
+      "size": 2370,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_dlvaunta_mashup.png"
+    },
+    {
+      "id": "pearl_dragneel",
+      "category": "pearl",
+      "name": "Dragneel",
+      "sha256": "dcbaa379a48b6991cd486d03d5787c230f5f616d6b78e3e8e20a65d786bba131",
+      "size": 1561,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_dragneel.png"
+    },
+    {
+      "id": "pearl_faith_vanilla",
+      "category": "pearl",
+      "name": "Faith Vanilla",
+      "sha256": "10339a514c95837db783e12392e6471fad593592fbdb6d5356021257702d1477",
+      "size": 818,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_faith_vanilla.png"
+    },
+    {
+      "id": "pearl_kesu_default_mashup",
+      "category": "pearl",
+      "name": "Kesu Default Mashup",
+      "sha256": "b1492ee8690a4b51efda07e118d384b9bd14ac5f9745eb3ed226b45f35913f58",
+      "size": 2842,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_kesu_default_mashup.png"
+    },
+    {
+      "id": "pearl_kesu_main",
+      "category": "pearl",
+      "name": "Kesu Main",
+      "sha256": "d0e522ff0b2d0d271985b361f1ababe6924a1a2094a67d6adaf8609e6a6436a0",
+      "size": 1056,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_kesu_main.png"
+    },
+    {
+      "id": "pearl_need_me",
+      "category": "pearl",
+      "name": "Need Me",
+      "sha256": "07f1bb87b6cb87b9139b89b8317f24fd27c5fa5603c58e3c7095f51fc602dc33",
+      "size": 1479,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_need_me.png"
+    },
+    {
+      "id": "pearl_purp_edit",
+      "category": "pearl",
+      "name": "Purp Edit",
+      "sha256": "b11fe665b0e26d32bf7ad3a8690f4cfe978ce1c8b0003699e79286d3bdc50690",
+      "size": 2484,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_purp_edit.png"
+    },
+    {
+      "id": "pearl_purpslight",
+      "category": "pearl",
+      "name": "PurpsLight",
+      "sha256": "7573146af1b01febf8e0a4c30e5d0ec4e4322d08fca4285e266a20b748e01f29",
+      "size": 701,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_purpslight.png"
+    },
+    {
+      "id": "pearl_taurt_blue",
+      "category": "pearl",
+      "name": "Taurt Blue",
+      "sha256": "1f47c63a2f331b718ad129d866d73cd76c5f171f86701db9c70d9c6824e925b6",
+      "size": 650,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_taurt_blue.png"
+    },
+    {
+      "id": "pearl_theos_pack",
+      "category": "pearl",
+      "name": "Theos Pack",
+      "sha256": "e29f440990a000a73bc1b70eb7c89f6f028bcaa77d00da27e3c51d84bb0f1d13",
+      "size": 2301,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_theos_pack.png"
+    },
+    {
+      "id": "pearl_tostraight",
+      "category": "pearl",
+      "name": "Tostraight",
+      "sha256": "b6a9ddab89aacb08aeda648bda2a233bb8c2b24a27bf48cff001921e5c2bc862",
+      "size": 1170,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_tostraight.png"
+    },
+    {
+      "id": "pearl_vaunta_blue",
+      "category": "pearl",
+      "name": "Vaunta Blue",
+      "sha256": "bd225a9587ae7bc9828ba34b7ed42916ea9ec6df766ce7e5f04bf0af8292c43f",
+      "size": 725,
+      "added": "2026-10-02",
+      "preview": "previews/pearl_vaunta_blue.png"
+    },
+    {
+      "id": "glowstone_cowarted",
+      "category": "glowstone",
+      "name": "Cowarted",
+      "sha256": "97a17a69a1bb34867e637486584839dabf7c83792b4630949428b8feccded6f7",
+      "size": 2377,
+      "added": "2026-10-02",
+      "preview": "previews/glowstone_cowarted.png"
+    },
+    {
+      "id": "hotbar_baby_pack",
+      "category": "hotbar",
+      "name": "Baby Pack",
+      "sha256": "d44728664a7455c48a4f4661044ceea2c057c22270d925f396395f5a75466c67",
+      "size": 4589,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_baby_pack.png"
+    },
+    {
+      "id": "hotbar_bauloo_privat",
+      "category": "hotbar",
+      "name": "Bauloo Privat",
+      "sha256": "b9577f24c4137597da7b84362069bcac323f3a593d23ee820a948da0e2d15558",
+      "size": 2902,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_bauloo_privat.png"
+    },
+    {
+      "id": "hotbar_blossom",
+      "category": "hotbar",
+      "name": "Blossom",
+      "sha256": "0bb1da3d350863cd80d2badfcea74e9d870a990fdd72e8bbe558142a5a28e32c",
+      "size": 2429,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_blossom.png"
+    },
+    {
+      "id": "hotbar_dlvaunta_mashup",
+      "category": "hotbar",
+      "name": "Dlvaunta Mashup",
+      "sha256": "043da4239417a7864c66810408205eea5b41059ece576146326df2c14ffdf9e9",
+      "size": 2366,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_dlvaunta_mashup.png"
+    },
+    {
+      "id": "hotbar_faith_vanilla",
+      "category": "hotbar",
+      "name": "Faith Vanilla",
+      "sha256": "0c427b306fd7bc21fce5519ae8637866a061ebba467093bfcc09375ab14a8586",
+      "size": 2316,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_faith_vanilla.png"
+    },
+    {
+      "id": "hotbar_kesie_blueberry",
+      "category": "hotbar",
+      "name": "Kesie BlueBerry",
+      "sha256": "fde00b3b32af7a58f7b6d080fd9728b1651efc2061b9c022c25ce07547429942",
+      "size": 4962,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_kesie_blueberry.png"
+    },
+    {
+      "id": "hotbar_kesu_default_mashup",
+      "category": "hotbar",
+      "name": "Kesu Default Mashup",
+      "sha256": "0fa65648a64ed242394c11b6c84068251e11388526e120f948028a84efbdbbce",
+      "size": 2367,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_kesu_default_mashup.png"
+    },
+    {
+      "id": "hotbar_lavander",
+      "category": "hotbar",
+      "name": "Lavander",
+      "sha256": "cab1a6e9b9451bf12905819d3d77afcc9d42924b6d0c793298b69b5a6adefbf9",
+      "size": 3835,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_lavander.png"
+    },
+    {
+      "id": "hotbar_lavendercat",
+      "category": "hotbar",
+      "name": "Lavendercat",
+      "sha256": "1625b1ff8d9602e2a79cfee38253330474cf09b7de28144974a6ba3f56afdbdd",
+      "size": 2355,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_lavendercat.png"
+    },
+    {
+      "id": "hotbar_theos_pack",
+      "category": "hotbar",
+      "name": "Theos Pack",
+      "sha256": "7ea310edc09bc63fe9a70adb4a406a5b6959c183878b4debd648f764811a06d9",
+      "size": 2748,
+      "added": "2026-10-02",
+      "preview": "previews/hotbar_theos_pack.png"
+    },
+    {
+      "id": "anchor_azell932_s_anchor",
+      "category": "anchor",
+      "name": "azell932's anchor",
+      "sha256": "5482e6fd1d483e15fcb834c62ecda08e2c393033611644dd87a811c676ea94e1",
+      "size": 56284,
+      "added": "2026-10-01",
+      "by": "azell",
+      "preview": "previews/anchor_azell932_s_anchor.png"
+    },
+    {
+      "id": "armor_azell932_s_armour",
+      "category": "armor",
+      "name": "azell932's armour",
+      "sha256": "2e3e5ed1b5e8ab7b91c80b3e37ef51a2654bbbcf5c63cd89a6b21dd4e7e515a0",
+      "size": 21850,
+      "added": "2026-10-01",
+      "by": "azell",
+      "preview": "previews/armor_azell932_s_armour.png"
+    },
+    {
+      "id": "anchor_blue_pink_anchor",
+      "category": "anchor",
+      "name": "blue pink anchor",
+      "sha256": "ef017763b5bb164463eb495bfb3b41231921fe014ac6c3208151318aa0154c51",
+      "size": 12385,
+      "added": "2026-10-01",
+      "preview": "previews/anchor_blue_pink_anchor.png"
+    },
+    {
+      "id": "obsidian_faith_kataxur",
+      "category": "obsidian",
+      "name": "Faith Kataxur",
+      "sha256": "a7c8002b68ac9f860a561da634b2b77cd9e6b283cdf8585d52d6ec53d2c1460c",
+      "size": 2043,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_faith_kataxur.png"
+    },
+    {
+      "id": "obsidian_blossom",
+      "category": "obsidian",
+      "name": "Blossom",
+      "sha256": "0fad9f82a22e4f878dd59c610f75f9be9389fba68bb4a158c4684caebc3abc7f",
+      "size": 1164,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_blossom.png"
+    },
+    {
+      "id": "obsidian_kesu_default",
+      "category": "obsidian",
+      "name": "Kesu Default",
+      "sha256": "0f1462e199b9b1f4511a31606be64bc0b5687ed5da7d29852e1e2f5efe52c834",
+      "size": 2386,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_kesu_default.png"
+    },
+    {
+      "id": "obsidian_kesu_main",
+      "category": "obsidian",
+      "name": "Kesu Main",
+      "sha256": "97ef367b40fbffb2f2322a429caeb567c48f63e4580ee6a6d57ba0cb91f34344",
+      "size": 1076,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_kesu_main.png"
+    },
+    {
+      "id": "obsidian_sunset",
+      "category": "obsidian",
+      "name": "Sunset",
+      "sha256": "6547742009f723221f3f9baa0347f102c1fa49662b0f50d4087045bcb28b8e6e",
+      "size": 958,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_sunset.png"
+    },
+    {
+      "id": "obsidian_midnight",
+      "category": "obsidian",
+      "name": "Midnight",
+      "sha256": "2dce3a37e2be7170396914c111ec2809a55f233008e9f162c394112d03f15cff",
+      "size": 744,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_midnight.png"
+    },
+    {
+      "id": "obsidian_dylan",
+      "category": "obsidian",
+      "name": "Dylan",
+      "sha256": "84c080517edc8e854cfa70aa466bec246d1bd6d443fa3e17575d6e2f93d82eed",
+      "size": 1491,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_dylan.png"
+    },
+    {
+      "id": "obsidian_aqua_plus",
+      "category": "obsidian",
+      "name": "Aqua Plus",
+      "sha256": "13a577fcb1b40c6c4475fa3d80be14337f5be25f5c2ce19a6b599eb373f3e98b",
+      "size": 4434,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_aqua_plus.png"
+    },
+    {
+      "id": "obsidian_flat",
+      "category": "obsidian",
+      "name": "Flat",
+      "sha256": "4ce08dab314057cddeb65e84dac978d41d2d09eccbd635d652ec0f14acf9435e",
+      "size": 2087,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_flat.png"
+    },
+    {
+      "id": "obsidian_awerial",
+      "category": "obsidian",
+      "name": "Awerial",
+      "sha256": "d7d73f5f388121076142a7e3c77a3d36ee7fbbc58481fab56eb13ca6a54e56c0",
+      "size": 4072,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_awerial.png"
+    },
+    {
+      "id": "obsidian_bauloo",
+      "category": "obsidian",
+      "name": "Bauloo",
+      "sha256": "a3074571ba55a7cfc27a40af6362c458a5a9f152642aafa2be81fc492e3f2527",
+      "size": 4545,
+      "added": "2026-09-29",
+      "preview": "previews/obsidian_bauloo.png"
+    },
+    {
+      "id": "anchor_gallery_walk_remake",
+      "category": "anchor",
+      "name": "Gallery Walk Remake",
+      "sha256": "a7d7696f2d7f070888004cadf57fbaaefa4366f57b8639c23ff168c0c171fc01",
+      "size": 23528,
+      "added": "2026-09-27",
+      "by": "samy",
+      "preview": "previews/anchor_gallery_walk_remake.png"
+    },
+    {
+      "id": "crystal_pcrit_default",
+      "category": "crystal",
+      "name": "pCrit default",
+      "sha256": "6db60c13ece0bcd68b26c4f0e130dcc81d63aedf222b6cb10c954a293ae4ea56",
+      "size": 5076,
+      "added": "2026-09-27",
+      "by": "samy",
+      "preview": "previews/crystal_pcrit_default.png"
+    },
+    {
+      "id": "fire_pcrit_default",
+      "category": "fire",
+      "name": "pCrit default",
+      "sha256": "d49c1f7f0e85be36a3043f3a4804da6baa7d9a51250001e096b11948bb167aaa",
+      "size": 1525,
+      "added": "2026-09-27",
+      "by": "samy",
+      "preview": "previews/fire_pcrit_default.png"
+    },
+    {
+      "id": "sky_bthe6legend327_16x_6revamp",
+      "category": "sky",
+      "name": "bThe6Legend327 16x 6REVAMP",
+      "sha256": "28c7355e8a2d9e6046565a78dc79b19e5357879a42ea01a7d89eedeb18b3bfa6",
+      "size": 9497322,
+      "added": "2026-09-27",
+      "preview": "previews/sky_bthe6legend327_16x_6revamp.png"
+    },
+    {
+      "id": "crystal_kesu_main",
+      "category": "crystal",
+      "name": "Kesu Main",
+      "sha256": "16da02b83ada699d8a7a53c65c3fbb645e318fc1982a9d791454c47d5fb330cb",
+      "size": 4458,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_kesu_main.png"
+    },
+    {
+      "id": "crystal_blueberry_light",
+      "category": "crystal",
+      "name": "BlueBerry Light",
+      "sha256": "045b04b65ba887a430116e9c9015d0a0a9bd4e6d2a14bc197ba46aa380723790",
+      "size": 5969,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_blueberry_light.png"
+    },
+    {
+      "id": "crystal_need_me",
+      "category": "crystal",
+      "name": "Need Me",
+      "sha256": "9efc85460a84bf77b5b91c5d71f8ecd1ce30b616cdd8d4c32e9bfec9b8820de8",
+      "size": 10694,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_need_me.png"
+    },
+    {
+      "id": "crystal_digs_simple",
+      "category": "crystal",
+      "name": "Digs Simple",
+      "sha256": "8ac1ad6def90fc3c3c8f4a11a9c266a929d61b9964a130829d2fac867a6b8382",
+      "size": 1469,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_digs_simple.png"
+    },
+    {
+      "id": "sky_steven_universe_recolour",
+      "category": "sky",
+      "name": "Steven Universe recolour",
+      "sha256": "036aa153ecdc1c6279c2e3fd33354ec50de3660532aa5667345cf362e7f45492",
+      "size": 13237584,
+      "added": "2026-09-26",
+      "preview": "previews/sky_steven_universe_recolour.png"
+    },
+    {
+      "id": "crystal_gallery_walk",
+      "category": "crystal",
+      "name": "Gallery Walk",
+      "sha256": "57cdea0e00fcace735ddb77efd3632c79bd63e034ad4afd0452ca655b995ee38",
+      "size": 3632,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_gallery_walk.png"
+    },
+    {
+      "id": "crystal_dpallagongus",
+      "category": "crystal",
+      "name": "Dpallagongus",
+      "sha256": "af47961d0ee6ddfb2ec0730aad1a33aa1eb394935ca6346fe14db278dff8c818",
+      "size": 3473,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_dpallagongus.png"
+    },
+    {
+      "id": "crystal_pink_dlvaunta",
+      "category": "crystal",
+      "name": "Pink Dlvaunta",
+      "sha256": "c26ea66f1b6189db3f6e8d7ff5776ad4d04f3eee79b09d3b68b2b4df149da5b7",
+      "size": 4914,
+      "added": "2026-09-26",
+      "preview": "previews/crystal_pink_dlvaunta.png"
+    },
+    {
+      "id": "anchor_kesie_priv_remake",
+      "category": "anchor",
+      "name": "Kesie Priv Remake",
+      "sha256": "8efcfaf0ed32af0acac3e85d2e0fb1afd5b036d539d83275694651624675fe66",
+      "size": 5664,
+      "added": "2026-09-25",
+      "preview": "previews/anchor_kesie_priv_remake.png"
+    },
+    {
+      "id": "crystal_daquavious_crystal",
+      "category": "crystal",
+      "name": "Daquavious crystal",
+      "sha256": "313f5b96741fdbca7ed1be4f3f28b6fa85f7fb3c85cc38ce8ebd55a0d3e4956d",
+      "size": 3638,
+      "added": "2026-09-24",
+      "preview": "previews/crystal_daquavious_crystal.png"
+    },
+    {
+      "id": "fire_lowfire_white",
+      "category": "fire",
+      "name": "LowFire white",
+      "sha256": "1a0a735ec049b38c8d94c0ea809cc6c8e9abc398ed8191aa52286e80771a07b7",
+      "size": 1320,
+      "added": "2026-09-19",
+      "preview": "previews/fire_lowfire_white.png"
+    },
+    {
+      "id": "sky_evantiisky_private",
+      "category": "sky",
+      "name": "EvantiiSky (private)",
+      "sha256": "bd270da9383a919d6e1aa321bddc86ed33a6895aed49fc8b131959b236e66fb4",
+      "size": 8286584,
+      "added": "2026-09-19",
+      "by": "claire",
+      "preview": "previews/sky_evantiisky_private.png"
+    },
+    {
+      "id": "anchor_tostraight_anchor",
+      "category": "anchor",
+      "name": "ToStraight Anchor",
+      "sha256": "16bf06613c3609008592e7a5298e66b3c794bbec0e733877e4643bad5bd1b778",
+      "size": 35721,
+      "added": "2026-09-18",
+      "preview": "previews/anchor_tostraight_anchor.png"
+    },
+    {
+      "id": "anchor_k1rbe_x_gpzr_vanilla_enhanced",
+      "category": "anchor",
+      "name": "K1RBE x Gpzr Vanilla Enhanced",
+      "sha256": "5d22fbab62260b2b452286c76c0dfb95c7fd5a51abb58ef85bb4cdefc539524d",
+      "size": 7506,
+      "added": "2026-09-18",
+      "preview": "previews/anchor_k1rbe_x_gpzr_vanilla_enhanced.png"
+    },
+    {
+      "id": "sky_theos_pack_but_better",
+      "category": "sky",
+      "name": "Theos Pack But Better",
+      "sha256": "e6dbb87676b85f1a5cf2971a22a4365887c136dcbb00a489080db1cd8e4b1f5c",
+      "size": 79784463,
+      "added": "2026-09-15",
+      "preview": "previews/sky_theos_pack_but_better.png"
+    },
+    {
+      "id": "sky_tostraight_sky",
+      "category": "sky",
+      "name": "ToStraight Sky",
+      "sha256": "82ce11961608d7bb17bdd56d86f04609649aae46bb2a85ff0762bd0f98fec7bd",
+      "size": 6897538,
+      "added": "2026-09-15",
+      "preview": "previews/sky_tostraight_sky.png"
+    },
+    {
+      "id": "sky_absol",
+      "category": "sky",
+      "name": "Absol",
+      "sha256": "39efe417a791cd1a078045b06b3d1288073bfa1c42b06cf75878b651a1eeeedb",
+      "size": 14097833,
+      "added": "2026-09-15",
+      "preview": "previews/sky_absol.png"
+    },
+    {
+      "id": "sky_blue_desert",
+      "category": "sky",
+      "name": "Blue Desert",
+      "sha256": "3ece8740d27fa1c640d18e672832a8047abadced56cd3cd8915c90145cde4835",
+      "size": 5754903,
+      "added": "2026-09-15",
+      "preview": "previews/sky_blue_desert.png"
+    },
+    {
+      "id": "sky_burj_al_arab",
+      "category": "sky",
+      "name": "Burj Al Arab",
+      "sha256": "a5ea4b97ca465450b09f6fe903caa668d552c5eb8864a8763b5c0d6a232feb45",
+      "size": 1732962,
+      "added": "2026-09-15",
+      "preview": "previews/sky_burj_al_arab.png"
+    },
+    {
+      "id": "sky_cloudy_sea",
+      "category": "sky",
+      "name": "Cloudy Sea",
+      "sha256": "3712a9862aa52f156c93a64de1d17d737c6e0268a114019cc49b868ea3ead5b8",
+      "size": 12678807,
+      "added": "2026-09-15",
+      "preview": "previews/sky_cloudy_sea.png"
+    },
+    {
+      "id": "sky_dark_forest",
+      "category": "sky",
+      "name": "Dark Forest",
+      "sha256": "b7c720196406629997831f631b51638586cf0cbbef8730aa9d894db861c8d066",
+      "size": 10557804,
+      "added": "2026-09-15",
+      "preview": "previews/sky_dark_forest.png"
+    },
+    {
+      "id": "sky_darkness",
+      "category": "sky",
+      "name": "Darkness",
+      "sha256": "6eb377bde3df7b9fef3ce21718d16d85c446d25a16d5abad5fcb44e49b3bb485",
+      "size": 6175622,
+      "added": "2026-09-15",
+      "preview": "previews/sky_darkness.png"
+    },
+    {
+      "id": "sky_fairyland",
+      "category": "sky",
+      "name": "Fairyland",
+      "sha256": "7ed82cb27529a686718bd04df38b99a56e2b5bc42c0726bb0144ae1088da4e9f",
+      "size": 13291451,
+      "added": "2026-09-15",
+      "preview": "previews/sky_fairyland.png"
+    },
+    {
+      "id": "sky_green_polar_lights",
+      "category": "sky",
+      "name": "Green Polar Lights",
+      "sha256": "ea71c4b63d824a1eb308bf42814aeca4f7701f613ffbfff93ee0593be21520f4",
+      "size": 13184846,
+      "added": "2026-09-15",
+      "preview": "previews/sky_green_polar_lights.png"
+    },
+    {
+      "id": "sky_purple_mountains",
+      "category": "sky",
+      "name": "Purple Mountains",
+      "sha256": "d657f9b412a99edd151898b8e807c232fac3e886e6ded09b98d7d52a1d29d94d",
+      "size": 13914139,
+      "added": "2026-09-15",
+      "preview": "previews/sky_purple_mountains.png"
+    },
+    {
+      "id": "sky_red_synthwave",
+      "category": "sky",
+      "name": "Red Synthwave",
+      "sha256": "a72fbc456155ba45162148503dcd097aa5e391a94249a550445d8e04ac875530",
+      "size": 8603651,
+      "added": "2026-09-15",
+      "preview": "previews/sky_red_synthwave.png"
+    }
+  ]
+}
